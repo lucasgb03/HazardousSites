@@ -50,4 +50,4 @@ Regression discontinuity model of effects of waste site cleanup on housing price
 - trp: the trp tells us the treatment effect on the number of rooms. The trp of -0.05249 indicates that at the cutoff there was on average 0.05249 less rooms in houses that received treatment vs houses that did not, controlling for age, state, runvar and runvarsq. Since this is close to zero its possible that it serves as a placebo showing that treatment likely did not affect unrelated home characteristics like the number of rooms
 
 # Files
-- hazardoussite.rds
+- hazardoussite.R
